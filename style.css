@@ -11,3 +11,22 @@
     font-weight: 500;
     transform: translateY(-3px);
 }
+.footer-social-icons .bi{
+    transition: all .5s linear;
+
+}
+.footer-social-icons .bi:hover{
+    background-color: #28a745;
+    color: white;
+}
+.service-img{
+    width: 100px;
+    height: 100px;
+}
+.service-card{
+    transition: all 1s linear;
+}
+.service-card:hover{
+    border-bottom: 1px solid black;
+    transform: translateY(-10px);
+}
